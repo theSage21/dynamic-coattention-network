@@ -10,3 +10,4 @@ log/*.pbtxt
 log/*.ckpt*
 log/train/*
 log/eval/*
+venv/
